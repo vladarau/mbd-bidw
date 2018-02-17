@@ -1,4 +1,4 @@
-# IE HST | MBD | BUSINESS INTELLIGENCE AND DATAWAREHOUSING
+# Business Intelligence and Data Warehouse Course
 
 This repository contains all necessary inputs to run the course hands-on labs. 
 
@@ -10,7 +10,6 @@ This repository contains all necessary inputs to run the course hands-on labs.
   - Datasets
   - Tableau files
   - Videos
-
 
 ## Software Installation
 
