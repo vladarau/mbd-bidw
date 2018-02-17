@@ -1,4 +1,4 @@
-# IE HST | MBD
+# Business Intelligence and Data Warehouse Course
 
 ## Session 4
 
