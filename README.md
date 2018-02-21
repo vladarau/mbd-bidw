@@ -30,8 +30,8 @@ This repository contains all necessary inputs to run the course hands-on labs.
     - MySQL: http://dev.mysql.com/downloads/mysql/
     - MySQL Workbench: http://dev.mysql.com/downloads/workbench/
   - Install all the programs and follow the instructions:
-    - In Windows, during the installation process you will configure the password for root user (choose pentaho)
-    - In Mac, a temporal password will be generated. You must start the database from the preferences menu, open MySQL Workbench and the first time you will connect the database you wil have the chance to change the temporal password.
+    - [Windows] During the installation process you will configure the password for root user (choose pentaho)
+    - [Mac] A temporal password will be generated. You must start the database from the preferences menu, open MySQL Workbench and the first time you will connect the database you wil have the chance to change the temporal password.
 
 **Install PDI**
 
@@ -41,14 +41,14 @@ We will use the community version of Pentaho Data Integration (a.k.a PDI). It ca
     - [Mac] Move the data-integration folder into Applications folder
     - [Windows] Move the data-integration folder into C:/ folder
   - Open PDI
-    - [Windows] Double-click spoon.bat inside data-integratioon forlder
+    - [Windows] Double-click spoon.bat inside data-integratioon folder
     - [Mac] Open the terminal and execute:
     
 ```
 cd /Applications/data-integration/
 ./spoon.sh
 ```    
-  - Optional: Active data-integration.app as a double-click app using the terminal:
+  - [Optional] Active data-integration.app as a double-click app using the terminal:
   
 ``` 
 sudo xattr -dr com.apple.quarantine /Applications/data-integration/Data\ Integration.app
