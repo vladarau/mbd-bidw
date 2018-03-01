@@ -17,3 +17,8 @@ The topic of this session is **Data Analysis and Visualziatoin**. This repositor
 	  - Tableau
 	  - MySQL
   - All analysis files have been created with Tableau.
+  
+  ## Resources:
+  
+   - [Data + Design](https://infoactive.co/data-design/titlepage01.html)
+   - [Visualizing Data](http://www.visualisingdata.com/resources/)
