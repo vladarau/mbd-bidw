@@ -22,3 +22,4 @@ The topic of this session is **Data Analysis and Visualziatoin**. This repositor
   
    - [Data + Design](https://infoactive.co/data-design/titlepage01.html)
    - [Visualizing Data](http://www.visualisingdata.com/resources/)
+   - [The Extreme Presentation™ Method](https://extremepresentation.com)
